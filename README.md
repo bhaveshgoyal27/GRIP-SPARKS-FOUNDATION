@@ -1,5 +1,7 @@
 # GRIP-SPARKS-FOUNDATION
-Data Science Internship at The Sparks Foundation 
+Data Science Internship at The Sparks Foundation
+
+BHAVESH GOYAL
 
 TASK 1 - Updating LinkedIn Profile
 
